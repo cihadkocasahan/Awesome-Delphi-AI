@@ -13,13 +13,13 @@ Bu katalog, Delphi geliştiricilerinin **geliştirici deneyimini (DevEx) ve mode
 ## İçindekiler
 
 - [Yapay Zekâ Ajan Araçları ve MCP (Model Context Protocol)](#yapay-zekâ-ajan-araçları-ve-mcp-model-context-protocol)
-- [Kod Zekâsı ve LSP (Language Server Protocol)](#kod-zekâsı-ve-lsp-language-server-protocol)
-- [AST, DFM ve Kod Tabanı Statik Analizi](#ast-dfm-ve-kod-tabanı-statik-analizi)
-- [Eski Kod Tabanları ve Karakter Kodlama Köprüleri](#eski-kod-tabanları-ve-karakter-kodlama-köprüleri)
-- [IDE Eklentileri ve Editör İçi Asistanlar](#ide-eklentileri-ve-editör-içi-asistanlar)
-- [Yapay Zekâ Çatıları ve Çoklu Ajan Orkestrasyonu](#yapay-zekâ-çatıları-ve-çoklu-ajan-orkestrasyonu)
-- [Cihaz Üzerinde Yerel Çıkarım (Delphi-Native Inference)](#cihaz-üzerinde-yerel-çıkarım-delphi-native-inference)
-- [Bulut LLM API İstemcileri](#bulut-llm-api-istemcileri)
+- [Semantik Kod Analizi ve Dil Sunucuları (LSP)](#semantik-kod-analizi-ve-dil-sunucuları-lsp)
+- [Sözdizimi (AST), DFM ve Statik Kod Analizi](#sözdizimi-ast-dfm-ve-statik-kod-analizi)
+- [Eski Projeler ve Karakter Kodlama (Encoding) Araçları](#eski-projeler-ve-karakter-kodlama-encoding-araçları)
+- [IDE Eklentileri ve Kodlama Asistanları](#ide-eklentileri-ve-kodlama-asistanları)
+- [Yapay Zekâ Mimarileri ve Çoklu Ajan (Agent) Yönetimi](#yapay-zekâ-mimarileri-ve-çoklu-ajan-agent-yönetimi)
+- [Yerel Model Çalıştırma (On-Device Inference)](#yerel-model-çalıştırma-on-device-inference)
+- [Bulut LLM API İstemcileri](#bulut-llm-api-i̇stemcileri)
 - [Test ve GUI Otomasyonu](#test-ve-gui-otomasyonu)
 - [Derlenmiş Listeler ve Topluluk Dizinleri](#derlenmiş-listeler-ve-topluluk-dizinleri)
 - [Topluluk ve Kaynaklar](#topluluk-ve-kaynaklar)
@@ -58,7 +58,7 @@ Bu katalog, Delphi geliştiricilerinin **geliştirici deneyimini (DevEx) ve mode
 
 ---
 
-## Kod Zekâsı ve LSP (Language Server Protocol)
+## Semantik Kod Analizi ve Dil Sunucuları (LSP)
 
 *Geniş Pascal projelerinin semantik yapısını, tip tanımlarını ve çağrı hiyerarşilerini yapay zekâ kodlama asistanlarına aktaran Language Server Protocol (LSP) motorları ve sembol dizinleyicileri.*
 
@@ -74,7 +74,7 @@ Bu katalog, Delphi geliştiricilerinin **geliştirici deneyimini (DevEx) ve mode
 
 ---
 
-## AST, DFM ve Kod Tabanı Statik Analizi
+## Sözdizimi (AST), DFM ve Statik Kod Analizi
 
 *Object Pascal kaynak kodlarını ve ikili DFM form dosyalarını LLM ler ve otomatik refactoring araçları için yapılandırılmış token lara dönüştüren AST ayrıştırıcılar ve statik analiz motorları.*
 
@@ -89,7 +89,7 @@ Bu katalog, Delphi geliştiricilerinin **geliştirici deneyimini (DevEx) ve mode
 
 ---
 
-## Eski Kod Tabanları ve Karakter Kodlama Köprüleri
+## Eski Projeler ve Karakter Kodlama (Encoding) Araçları
 
 *Yapay zekâ ajanları eski (legacy) Delphi projelerini düzenlerken karakter seti bozulmalarını, satır sonu (CRLF) uyumsuzluklarını ve çalışma alanı sürtünmelerini önleyen araçlar.*
 
@@ -104,7 +104,7 @@ Bu katalog, Delphi geliştiricilerinin **geliştirici deneyimini (DevEx) ve mode
 
 ---
 
-## IDE Eklentileri ve Editör İçi Asistanlar
+## IDE Eklentileri ve Kodlama Asistanları
 
 *RAD Studio içine ToolsAPI aracılığıyla doğrudan entegre edilen yapay zekâ sohbeti, kod tamamlama ve satır içi refactoring eklentileri.*
 
@@ -120,7 +120,7 @@ Bu katalog, Delphi geliştiricilerinin **geliştirici deneyimini (DevEx) ve mode
 
 ---
 
-## Yapay Zekâ Çatıları ve Çoklu Ajan Orkestrasyonu
+## Yapay Zekâ Mimarileri ve Çoklu Ajan (Agent) Yönetimi
 
 *Otonom ajan iş akışları, RAG boru hatları ve kurumsal LLM uygulamaları geliştirmek için yerel Delphi mimarileri.*
 
@@ -134,7 +134,7 @@ Bu katalog, Delphi geliştiricilerinin **geliştirici deneyimini (DevEx) ve mode
 
 ---
 
-## Cihaz Üzerinde Yerel Çıkarım (Delphi-Native Inference)
+## Yerel Model Çalıştırma (On-Device Inference)
 
 *Bulut bağımlılığı, harici API anahtarı veya Python ortamı gerektirmeden doğrudan cihaz üzerinde yerel LLM, SLM ve sinir ağı çalıştıran motorlar.*
 
