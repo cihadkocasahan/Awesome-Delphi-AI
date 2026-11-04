@@ -221,10 +221,6 @@ This directory focuses on modernizing the **development experience (DevEx) and e
 * [Telegram @delphibr](https://t.me/delphibr)  
   Active verified community channel connecting thousands of Brazilian Delphi engineers, discussing clean code, REST, and AI tooling.
 
-### Eastern Europe (Technical Knowledge Bases)
-* [Habr Delphi Hub](https://habr.com/en/hub/delphi/)  
-  Leading European engineering platform featuring in-depth technical publications, reverse engineering architecture, and Delphi AI integration articles.
-
 ### Türkiye (Turkish)
 * [DelphiCan](https://www.delphican.com/)  
   Türkiye'nin en aktif ve kapsamlı Delphi & Object Pascal geliştirici topluluğu; VCL, FMX, modern mimariler, API ve yapay zekâ tartışmaları.
