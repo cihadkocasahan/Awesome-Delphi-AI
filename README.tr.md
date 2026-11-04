@@ -1,4 +1,4 @@
-# Awesome Delphi AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Doğrulanmış Proje](https://img.shields.io/badge/Projeler-60%2B%20Do%C4%9Frulanm%C4%B1%C5%9F-blue?style=flat-square)](https://github.com/cihadkocasahan/Awesome-Delphi-AI) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/cihadkocasahan/Awesome-Delphi-AI/pulls) [![Son Güncelleme](https://img.shields.io/github/last-commit/cihadkocasahan/Awesome-Delphi-AI?style=flat-square)](https://github.com/cihadkocasahan/Awesome-Delphi-AI/commits)
+# Awesome Delphi AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Doğrulanmış Proje](https://img.shields.io/badge/Projeler-70%2B%20Do%C4%9Frulanm%C4%B1%C5%9F-blue?style=flat-square)](https://github.com/cihadkocasahan/Awesome-Delphi-AI) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/cihadkocasahan/Awesome-Delphi-AI/pulls) [![Son Güncelleme](https://img.shields.io/github/last-commit/cihadkocasahan/Awesome-Delphi-AI?style=flat-square)](https://github.com/cihadkocasahan/Awesome-Delphi-AI/commits)
 
 <a href="README.md"><img src="https://flagcdn.com/20x15/gb.png" width="20" height="15" alt="English"> **English**</a> &nbsp;·&nbsp; <a href="README.tr.md"><img src="https://flagcdn.com/20x15/tr.png" width="20" height="15" alt="Türkçe"> **Türkçe**</a>
 
@@ -12,17 +12,17 @@ Bu katalog, Delphi geliştiricilerinin **geliştirici deneyimini (DevEx) ve mode
 
 ## İçindekiler
 
-- [Yapay Zekâ Ajan Araçları ve MCP (Model Context Protocol)](#yapay-zekâ-ajan-araçları-ve-mcp-model-context-protocol)
-- [Ajan Becerileri, İstemler ve DevEx (Geliştirici Deneyimi)](#ajan-becerileri-i̇stemler-ve-devex-geliştirici-deneyimi)
-- [Semantik Kod Analizi ve Dil Sunucuları (LSP)](#semantik-kod-analizi-ve-dil-sunucuları-lsp)
-- [Sözdizimi (AST), DFM ve Statik Kod Analizi](#sözdizimi-ast-dfm-ve-statik-kod-analizi)
-- [Eski Projeler ve Karakter Kodlama (Encoding) Araçları](#eski-projeler-ve-karakter-kodlama-encoding-araçları)
-- [IDE Eklentileri ve Kodlama Asistanları](#ide-eklentileri-ve-kodlama-asistanları)
-- [Yapay Zekâ Mimarileri ve Çoklu Ajan (Agent) Yönetimi](#yapay-zekâ-mimarileri-ve-çoklu-ajan-agent-yönetimi)
-- [Yerel Model Çalıştırma (On-Device Inference)](#yerel-model-çalıştırma-on-device-inference)
-- [Bulut LLM API İstemcileri](#bulut-llm-api-i̇stemcileri)
-- [Test ve GUI Otomasyonu](#test-ve-gui-otomasyonu)
-- [Derlenmiş Listeler ve Topluluk Dizinleri](#derlenmiş-listeler-ve-topluluk-dizinleri)
+- [Yapay Zekâ Ajan Araçları ve MCP (Model Context Protocol)](#yapay-zekâ-ajan-araçları-ve-mcp-model-context-protocol) (22)
+- [Ajan Becerileri, İstemler ve DevEx (Geliştirici Deneyimi)](#ajan-becerileri-i̇stemler-ve-devex-geliştirici-deneyimi) (7)
+- [Semantik Kod Analizi ve Dil Sunucuları (LSP)](#semantik-kod-analizi-ve-dil-sunucuları-lsp) (5)
+- [Sözdizimi (AST), DFM ve Statik Kod Analizi](#sözdizimi-ast-dfm-ve-statik-kod-analizi) (4)
+- [Eski Projeler ve Karakter Kodlama (Encoding) Araçları](#eski-projeler-ve-karakter-kodlama-encoding-araçları) (4)
+- [IDE Eklentileri ve Kodlama Asistanları](#ide-eklentileri-ve-kodlama-asistanları) (5)
+- [Yapay Zekâ Mimarileri ve Çoklu Ajan (Agent) Yönetimi](#yapay-zekâ-mimarileri-ve-çoklu-ajan-agent-yönetimi) (3)
+- [Yerel Model Çalıştırma (On-Device Inference)](#yerel-model-çalıştırma-on-device-inference) (6)
+- [Bulut LLM API İstemcileri](#bulut-llm-api-i̇stemcileri) (11)
+- [Test ve GUI Otomasyonu](#test-ve-gui-otomasyonu) (1)
+- [Derlenmiş Listeler ve Topluluk Dizinleri](#derlenmiş-listeler-ve-topluluk-dizinleri) (2)
 - [Topluluk ve Kaynaklar](#topluluk-ve-kaynaklar)
 - [Katkıda Bulunma (Contributing)](#katkıda-bulunma-contributing)
 - [Güvenlik Uyarısı ve Sorumluluk Reddi (Disclaimer)](#güvenlik-uyarısı-ve-sorumluluk-reddi-disclaimer)
@@ -250,10 +250,11 @@ Bu katalog, Delphi geliştiricilerinin **geliştirici deneyimini (DevEx) ve mode
 
 ## Katkıda Bulunma (Contributing)
 
-Katkılarınız ve proje önerileriniz memnuniyetle karşılanır!
+Gözden kaçırdığımız bir araç mı var? [GitHub Issues](../../issues) üzerinden bildirin; kriterlere uyan projeleri düzenli olarak kataloğa ekliyoruz.
+
 1. **Odak:** Eklenen proje; yapay zekâ, MCP, LSP, AST analizi veya modern geliştirici araçlarıyla Delphi/Object Pascal geliştirmesini güçlendirmelidir.
 2. **Kalite ve Dağıtım:** Açık kaynaklı ve aktif olarak güncellenen depolar önceliklidir. Ticari veya kapalı kaynak dağıtım araçları özel bir değer sunmalı ve açıkça `[Ticari]` olarak etiketlenmelidir.
-3. **Format:** Belirlenen kategori kurallarına, 2 sütunlu kompakt tablo yapısına ve rozet/etiket standartlarına uyarak bir Pull Request gönderin.
+3. **Değerlendirme:** Önerilen projeler katalog standartlarına göre incelenir; kriterleri karşılayanlar bir sonraki güncelleme döngüsünde eklenir. Henüz keşfedemediğimiz araçlar olabilir; bildirimleriniz eksikleri tamamlamamıza yardımcı olur.
 
 ---
 
