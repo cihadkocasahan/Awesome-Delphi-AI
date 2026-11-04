@@ -6,7 +6,7 @@
 >
 > 🤖 **Otonom Keşif ve Güncelleme:** Bu liste, ekosistemi düzenli olarak tarayan, projeleri değerlendiren ve güncelleyen **Hermes Yapay Zekâ Ajanı** tarafından otomatik olarak yönetilmektedir.
 
-Bu kürasyon, Delphi yazılımcılarının **geliştirici deneyimini (DevEx) ve modern yazılım mühendisliği pratiklerini** güçlendirmeye odaklanır: Otonom kodlama ajanları (Claude Code, Cursor, Copilot), MCP protokolü üzerinden canlı derleyici/hata ayıklama denetimi, LSP ile semantik kod zekâsı, LLM bağlamı için AST/DFM ayrıştırma ve yerel (on-device) sinir ağı çıkarımı.
+Bu kürasyon, Delphi geliştiricilerinin **geliştirici deneyimini (DevEx) ve modern mühendislik iş akışlarını** güçlendirmeye odaklanır. Tüm araç ve kütüphaneleri aşağıdaki içindekiler tablosunda kategorilere ayrılmış olarak bulabilirsiniz.
 
 ---
 
