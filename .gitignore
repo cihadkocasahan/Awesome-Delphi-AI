@@ -1,6 +1,7 @@
 # Operating System Files
 .DS_Store
 Thumbs.db
+desktop.ini
 
 # Editor & Tooling
 .vscode/
@@ -8,9 +9,27 @@ Thumbs.db
 *.swp
 *.bak
 *~
+*.patch
+*.diff
 
-# Environment & Credentials (NEVER commit secrets)
+# Temporary & Working Files
+*.tmp
+*.log
+DISCOVERIES.md
+
+# Python (in case local tools run in repo)
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Environment & Credentials (CRITICAL: NEVER commit secrets)
 .env
 .env.*
 *.secret
 *.token
+*.key
+*.pem
+credentials.json
+Master-Credentials.env
