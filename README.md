@@ -20,6 +20,7 @@ This list focuses on modernizing the **development experience (DevEx) and engine
 - [Curated Lists & Community Directories](#curated-lists--community-directories)
 - [Community & Resources](#community--resources)
 - [Contributing](#contributing)
+- [Security & Disclaimer](#security--disclaimer)
 
 ---
 
@@ -200,3 +201,14 @@ Contributions and recommendations are warmly welcome!
 1. **Focus:** Must enhance Delphi or Object Pascal development with AI, MCP, LSP, AST analysis, or modern developer workflows.
 2. **Quality & Distribution:** Open-source and actively maintained repositories are prioritized. Commercial or closed-source distribution tools must be uniquely valuable and clearly tagged `[Commercial]`.
 3. **Format:** Submit a Pull Request following the established categorization and tag conventions.
+
+---
+
+## Security & Disclaimer
+
+> ⚠️ **Important Notice & Due Diligence**
+>
+> 1. **Index & Catalog Only:** This repository is an automated, community-curated index. Inclusion of any project does **not** constitute an endorsement, code audit, or verification of its security posture.
+> 2. **Untested Third-Party Code:** The maintainers have **not** compiled, audited, executed, or tested every third-party repository, binary, script, or library referenced in this list.
+> 3. **Developer Responsibility:** Before integrating third-party code, pre-compiled binaries (`.dll`, `.so`, `.bpl`), MCP servers, or dependencies into your local development environments, corporate workstations, or production systems, you are solely responsible for inspecting source code, validating build scripts, and conducting thorough security audits.
+> 4. **No Warranty:** All resources and links are provided strictly *"as is"*, without warranty of any kind, express or implied. In no event shall the maintainers be held liable for any damages, vulnerabilities, data loss, or system compromises resulting from the use of linked software.
