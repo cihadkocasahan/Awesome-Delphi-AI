@@ -250,11 +250,11 @@ This directory focuses on modernizing the **development experience (DevEx) and e
 
 ## Contributing
 
-Found a tool that's missing? Suggest it via [GitHub Issues](../../issues) — we review and add qualifying projects regularly.
+Found a tool we missed or haven't discovered yet? Please let us know by opening a [GitHub Issue](../../issues).
 
 1. **Focus:** Must enhance Delphi or Object Pascal development with AI, MCP, LSP, AST analysis, or modern developer workflows.
-2. **Quality & Distribution:** Open-source and actively maintained repositories are prioritized. Commercial or closed-source distribution tools must be uniquely valuable and clearly tagged `[Commercial]`.
-3. **Review:** Projects are evaluated against the catalog criteria; qualifying entries are added in the next update cycle. There may be tools we haven't discovered yet — your suggestions help fill the gaps.
+2. **Quality & Distribution:** Open-source and actively maintained repositories are prioritized. Commercial tools must provide unique value and be clearly tagged `[Commercial]`.
+3. **Review:** We regularly evaluate suggested tools and add qualifying entries in the next update cycle. Help us keep the catalog comprehensive!
 
 ---
 
