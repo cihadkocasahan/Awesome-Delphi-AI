@@ -6,7 +6,7 @@
 >
 > 🔍 **Community-Curated:** Periodically scanned and updated to include the latest open-source Delphi AI projects.
 
-This list focuses on modernizing the **development experience (DevEx) and engineering workflow** of Delphi developers: empowering engineers with autonomous coding agents (Claude Code, Cursor, Copilot), real-time runtime control over MCP, deep code intelligence via LSP, AST/DFM parsing for accurate LLM context, and native on-device AI inference.
+This list focuses on modernizing the **development experience (DevEx) and engineering workflows** of Delphi developers. All resources are organized by category in the contents below.
 
 ---
 
