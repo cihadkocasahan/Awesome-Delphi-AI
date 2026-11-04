@@ -1,12 +1,12 @@
-# Awesome Delphi AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Otonom Kürasyon](https://img.shields.io/badge/K%C3%BCrasyon-Hermes_AI_Agent-8A2BE2?style=flat-square)](https://github.com/cihadkocasahan/Awesome-Delphi-AI)
+# Awesome Delphi AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Doğrulanmış Proje](https://img.shields.io/badge/Projeler-60%2B%20Do%C4%9Frulanm%C4%B1%C5%9F-blue?style=flat-square)](https://github.com/cihadkocasahan/Awesome-Delphi-AI) [![Otonom Dizin](https://img.shields.io/badge/Otonom_Dizin-Hermes_AI-8A2BE2?style=flat-square)](https://github.com/cihadkocasahan/Awesome-Delphi-AI) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/cihadkocasahan/Awesome-Delphi-AI/pulls) [![Son Güncelleme](https://img.shields.io/github/last-commit/cihadkocasahan/Awesome-Delphi-AI?style=flat-square)](https://github.com/cihadkocasahan/Awesome-Delphi-AI/commits)
 
 [🇬🇧 English](README.md) · [🇹🇷 Türkçe](README.tr.md)
 
-> Modern Delphi ve Object Pascal geliştiricileri için yapay zekâ araçları, kütüphaneler, Model Context Protocol (MCP) sunucuları, LSP motorları ve otonom kodlama iş akışlarının özenle seçilmiş açık kaynak kataloğu.
+> Modern Delphi ve Object Pascal geliştiricileri için yapay zekâ araçları, kütüphaneler, Model Context Protocol (MCP) sunucuları, LSP motorları ve otonom kodlama iş akışlarının açık kaynak ekosistem dizini ve kataloğu.
 >
-> 🤖 **Otonom Keşif ve Güncelleme:** Bu liste, ekosistemi düzenli olarak tarayan, projeleri değerlendiren ve güncelleyen **Hermes Yapay Zekâ Ajanı** tarafından otomatik olarak yönetilmektedir.
+> 🤖 **Otonom Keşif ve Güncelleme:** Bu dizin, ekosistemi düzenli olarak tarayan, projeleri değerlendiren ve güncelleyen **Hermes Yapay Zekâ Ajanı** tarafından otomatik olarak yönetilmektedir.
 
-Bu kürasyon, Delphi geliştiricilerinin **geliştirici deneyimini (DevEx) ve modern mühendislik iş akışlarını** güçlendirmeye odaklanır. Tüm araç ve kütüphaneleri aşağıdaki içindekiler tablosunda kategorilere ayrılmış olarak bulabilirsiniz.
+Bu katalog, Delphi geliştiricilerinin **geliştirici deneyimini (DevEx) ve modern mühendislik iş akışlarını** güçlendirmeye odaklanır. Tüm araç ve kütüphaneleri aşağıdaki içindekiler tablosunda kategorilere ayrılmış olarak bulabilirsiniz.
 
 ---
 
@@ -227,6 +227,18 @@ Katkılarınız ve proje önerileriniz memnuniyetle karşılanır!
 1. **Odak:** Eklenen proje; yapay zekâ, MCP, LSP, AST analizi veya modern geliştirici araçlarıyla Delphi/Object Pascal geliştirmesini güçlendirmelidir.
 2. **Kalite ve Dağıtım:** Açık kaynaklı ve aktif olarak güncellenen depolar önceliklidir. Ticari veya kapalı kaynak dağıtım araçları özel bir değer sunmalı ve açıkça `[Ticari]` olarak etiketlenmelidir.
 3. **Format:** Belirlenen kategori kurallarına, 2 sütunlu kompakt tablo yapısına ve rozet/etiket standartlarına uyarak bir Pull Request gönderin.
+
+---
+
+## Yıldız Geçmişi (Stargazers Over Time)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=cihadkocasahan/Awesome-Delphi-AI&type=Date)](https://star-history.com/#cihadkocasahan/Awesome-Delphi-AI&Date)
+
+## Katkıda Bulunanlar (Contributors)
+
+<a href="https://github.com/cihadkocasahan/Awesome-Delphi-AI/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=cihadkocasahan/Awesome-Delphi-AI" />
+</a>
 
 ---
 

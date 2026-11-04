@@ -1,12 +1,12 @@
-# Awesome Delphi AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Autonomous Curation](https://img.shields.io/badge/Curated_by-Hermes_AI_Agent-8A2BE2?style=flat-square)](https://github.com/cihadkocasahan/Awesome-Delphi-AI)
+# Awesome Delphi AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Verified Tools](https://img.shields.io/badge/Projects-60%2B%20Verified-blue?style=flat-square)](https://github.com/cihadkocasahan/Awesome-Delphi-AI) [![Autonomous Discovery](https://img.shields.io/badge/Autonomous_Discovery-Hermes_AI-8A2BE2?style=flat-square)](https://github.com/cihadkocasahan/Awesome-Delphi-AI) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/cihadkocasahan/Awesome-Delphi-AI/pulls) [![Last Commit](https://img.shields.io/github/last-commit/cihadkocasahan/Awesome-Delphi-AI?style=flat-square)](https://github.com/cihadkocasahan/Awesome-Delphi-AI/commits)
 
 [🇬🇧 English](README.md) · [🇹🇷 Türkçe](README.tr.md)
 
-> A curated list of awesome tools, libraries, MCP servers, LSP implementations, and AI-driven workflows for modern Delphi and Object Pascal development.
+> A comprehensive open-source directory and catalog of tools, libraries, MCP servers, LSP implementations, and AI-driven workflows for modern Delphi and Object Pascal development.
 >
 > 🤖 **Autonomous Discovery:** Continuously scanned, evaluated, and updated by **Hermes AI Agent** via automated scheduled pipeline.
 
-This list focuses on modernizing the **development experience (DevEx) and engineering workflows** of Delphi developers. All resources are organized by category in the contents below.
+This directory focuses on modernizing the **development experience (DevEx) and engineering workflows** of Delphi developers. All resources are organized by category in the contents below.
 
 ---
 
@@ -227,6 +227,18 @@ Contributions and recommendations are warmly welcome!
 1. **Focus:** Must enhance Delphi or Object Pascal development with AI, MCP, LSP, AST analysis, or modern developer workflows.
 2. **Quality & Distribution:** Open-source and actively maintained repositories are prioritized. Commercial or closed-source distribution tools must be uniquely valuable and clearly tagged `[Commercial]`.
 3. **Format:** Submit a Pull Request following the established categorization, 2-column compact table format, and badge/tag conventions.
+
+---
+
+## Stargazers Over Time
+
+[![Star History Chart](https://api.star-history.com/svg?repos=cihadkocasahan/Awesome-Delphi-AI&type=Date)](https://star-history.com/#cihadkocasahan/Awesome-Delphi-AI&Date)
+
+## Contributors
+
+<a href="https://github.com/cihadkocasahan/Awesome-Delphi-AI/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=cihadkocasahan/Awesome-Delphi-AI" />
+</a>
 
 ---
 
