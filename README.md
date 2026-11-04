@@ -25,6 +25,7 @@ This list focuses on modernizing the **development experience (DevEx) and engine
 - [Testing & GUI Automation](#testing--gui-automation)
 - [Community & Resources](#community--resources)
 - [Contributing](#contributing)
+- [Acknowledgments & Inspiration](#acknowledgments--inspiration)
 
 ---
 
@@ -236,3 +237,13 @@ Contributions and recommendations are warmly welcome!
 1. **Focus:** Must enhance Delphi or Object Pascal development with AI, MCP, LSP, AST analysis, or modern developer workflows.
 2. **Quality:** Open-source and actively maintained repositories are prioritized.
 3. **Format:** Submit a Pull Request following the established categorization and tag conventions.
+
+---
+
+## Acknowledgments & Inspiration
+
+This project was originally inspired by the curated collection [Awesome-AI-For-Delphi](https://github.com/GabrielOnDelphi/Awesome-AI-For-Delphi) created by **Gabriel Moraru** ([@GabrielOnDelphi](https://github.com/GabrielOnDelphi)).
+
+**Awesome-Delphi-AI** is an independently evolved edition tailored for modern developer experience (DevEx):
+* **Modern Tooling Focus:** Reorganized around Model Context Protocol (MCP), Language Server Protocol (LSP), AST analysis, and autonomous coding agents.
+* **Autonomous Curation:** Backed by an automated discovery pipeline (Hermes Agent + local LLMs) that continuously scans the ecosystem, evaluates new Delphi/Pascal tools, and keeps this directory active.
