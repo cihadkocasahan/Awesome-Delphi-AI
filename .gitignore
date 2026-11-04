@@ -1,0 +1,16 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Editor & Tooling
+.vscode/
+.idea/
+*.swp
+*.bak
+*~
+
+# Environment & Credentials (NEVER commit secrets)
+.env
+.env.*
+*.secret
+*.token
