@@ -203,20 +203,32 @@ Bu katalog, Delphi geliştiricilerinin **geliştirici deneyimini (DevEx) ve mode
 
 ## Topluluk ve Kaynaklar
 
-### Küresel Topluluklar
-* **[Delphi-PRAXiS (İngilizce)](https://en.delphipraxis.net/)** & **[Almanca Sürüm](https://www.delphipraxis.net/)**  
+### Küresel ve Çok Dilli Topluluklar
+* [Delphi-PRAXiS (İngilizce)](https://en.delphipraxis.net/) & [Almanca Sürüm](https://www.delphipraxis.net/)  
   Dünyanın en büyük bağımsız Delphi forumu; [AI-Assisted Coding](https://en.delphipraxis.net/forum/43-ai-assisted-coding/) özel bölümü, LLM entegrasyonu ve modern Pascal tartışmaları.
-* **[Embarcadero Topluluk ve Geliştirici Blogları](https://blogs.embarcadero.com/)**  
+* [Embarcadero Topluluk ve Geliştirici Blogları](https://blogs.embarcadero.com/)  
   Resmi geliştirici blogları, sürüm güncellemeleri, SmartCore AI haberleri ve Embarcadero mimarlarından teknik makaleler.
-* **[Reddit r/delphi](https://www.reddit.com/r/delphi/)**  
+* [Reddit r/delphi](https://www.reddit.com/r/delphi/)  
   Delphi ve Object Pascal haberleri, araçları ve açık kaynak proje tanıtımları için aktif topluluk alt dizini.
-* **[Claude Code Training for Delphi Developers](https://training.gdksoftware.com/)**  
-  GDK Software tarafından sunulan; CLAUDE.md mimarisi, MCP kurulumları ve Delphi ajan iş akışlarını kapsayan özel eğitim. `[Ticari]`
+* [Lazarus & Free Pascal Resmi Forumu](https://forum.lazarus.freepascal.org/)  
+  Açık kaynak Free Pascal (FPC) ve Lazarus geliştiricileri için resmi tartışma ve teknik bilgi merkezi.
+* [Claude Code Training for Delphi Developers](https://training.gdksoftware.com/)  
+  GDK Software tarafından sunulan; `CLAUDE.md` mimarisi, MCP kurulumları ve Delphi ajan iş akışlarını kapsayan özel eğitim. `[Ticari]`
+
+### Latin Amerika ve Brezilya (Portekizce)
+* [DevMedia / Clube Delphi](https://www.devmedia.com.br/delphi/)  
+  Portekizce konuşan en büyük yazılım geliştirme portalı; kurumsal Delphi mimarileri, REST servisleri ve zengin teknik rehberler.
+* [Telegram @delphibr](https://t.me/delphibr)  
+  Binlerce Brezilyalı Delphi mühendisini birbirine bağlayan, temiz kod, mimari ve modern araçların tartışıldığı doğrulanmış geliştirici kanalı.
+
+### Doğu Avrupa (Teknik Bilgi Bankaları)
+* [Habr Delphi Hub](https://habr.com/en/hub/delphi/)  
+  Avrupa'nın önde gelen mühendislik platformu; derinlemesine teknik makaleler, sistem mimarisi ve Delphi yapay zekâ entegrasyonları.
 
 ### Türkiye Toplulukları
-* **[DelphiCan](https://www.delphican.com/)**  
+* [DelphiCan](https://www.delphican.com/)  
   Türkiye nin en aktif ve kapsamlı Delphi & Object Pascal geliştirici topluluğu; VCL, FMX, modern mimariler, API ve yapay zekâ tartışmaları.
-* **[Delphi Türkiye Forum](https://www.delphiturkiye.com/forum/)**  
+* [Delphi Türkiye Forum](https://www.delphiturkiye.com/forum/)  
   1998 den beri Türkiye Delphi ekosisteminin en köklü bilgi bankası ve teknik tartışma forumu (`delphiturkiye.com`).
 
 ---

@@ -203,20 +203,32 @@ This directory focuses on modernizing the **development experience (DevEx) and e
 
 ## Community & Resources
 
-### Global Communities
-* **[Delphi-PRAXiS (English)](https://en.delphipraxis.net/)** & **[German Edition](https://www.delphipraxis.net/)**  
+### Global & Multilingual
+* [Delphi-PRAXiS (English)](https://en.delphipraxis.net/) & [German Edition](https://www.delphipraxis.net/)  
   The largest independent global Delphi forum, featuring dedicated discussions on [AI-Assisted Coding](https://en.delphipraxis.net/forum/43-ai-assisted-coding/), LLM integration, and modern Pascal practices.
-* **[Embarcadero Community & Developer Blogs](https://blogs.embarcadero.com/)**  
+* [Embarcadero Community & Developer Blogs](https://blogs.embarcadero.com/)  
   Official developer blogs, product updates, SmartCore AI news, and technical deep-dives from Embarcadero architects.
-* **[Reddit r/delphi](https://www.reddit.com/r/delphi/)**  
+* [Reddit r/delphi](https://www.reddit.com/r/delphi/)  
   Active community subreddit for Delphi and Object Pascal news, tooling, and open-source project showcases.
-* **[Claude Code Training for Delphi Developers](https://training.gdksoftware.com/)**  
-  Specialized hands-on training by GDK Software covering CLAUDE.md architecture, MCP setups, and Delphi agent workflows. `[Commercial]`
+* [Lazarus & Free Pascal Official Forum](https://forum.lazarus.freepascal.org/)  
+  The official discussion hub and technical knowledge base for open-source Free Pascal (FPC) and Lazarus development.
+* [Claude Code Training for Delphi Developers](https://training.gdksoftware.com/)  
+  Specialized hands-on training by GDK Software covering `CLAUDE.md` architecture, MCP setups, and Delphi agent workflows. `[Commercial]`
 
-### Turkish Communities (Türkiye)
-* **[DelphiCan](https://www.delphican.com/)**  
+### Latin America & Brazil (Portuguese)
+* [DevMedia / Clube Delphi](https://www.devmedia.com.br/delphi/)  
+  The largest Portuguese-language software development portal and knowledge base, featuring extensive enterprise Delphi architectures and API tutorials.
+* [Telegram @delphibr](https://t.me/delphibr)  
+  Active verified community channel connecting thousands of Brazilian Delphi engineers, discussing clean code, REST, and AI tooling.
+
+### Eastern Europe (Technical Knowledge Bases)
+* [Habr Delphi Hub](https://habr.com/en/hub/delphi/)  
+  Leading European engineering platform featuring in-depth technical publications, reverse engineering architecture, and Delphi AI integration articles.
+
+### Türkiye (Turkish)
+* [DelphiCan](https://www.delphican.com/)  
   Türkiye'nin en aktif ve kapsamlı Delphi & Object Pascal geliştirici topluluğu; VCL, FMX, modern mimariler, API ve yapay zekâ tartışmaları.
-* **[Delphi Türkiye Forum](https://www.delphiturkiye.com/forum/)**  
+* [Delphi Türkiye Forum](https://www.delphiturkiye.com/forum/)  
   1998'den beri Türkiye Delphi ekosisteminin en köklü bilgi bankası ve teknik tartışma forumu (`delphiturkiye.com`).
 
 ---
