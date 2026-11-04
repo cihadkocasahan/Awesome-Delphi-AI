@@ -1,6 +1,6 @@
 # Awesome Delphi AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Verified Tools](https://img.shields.io/badge/Projects-60%2B%20Verified-blue?style=flat-square)](https://github.com/cihadkocasahan/Awesome-Delphi-AI) [![Autonomous Discovery](https://img.shields.io/badge/Autonomous_Discovery-Hermes_AI-8A2BE2?style=flat-square)](https://github.com/cihadkocasahan/Awesome-Delphi-AI) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/cihadkocasahan/Awesome-Delphi-AI/pulls) [![Last Commit](https://img.shields.io/github/last-commit/cihadkocasahan/Awesome-Delphi-AI?style=flat-square)](https://github.com/cihadkocasahan/Awesome-Delphi-AI/commits)
 
-[🇬🇧 English](README.md) · [🇹🇷 Türkçe](README.tr.md)
+[![English](https://img.shields.io/badge/Language-English-blue?style=flat-square&logo=github)](README.md) &nbsp; [![Türkçe](https://img.shields.io/badge/Dil-T%C3%BCrk%C3%A7e-red?style=flat-square&logo=github)](README.tr.md)
 
 > A comprehensive open-source directory and catalog of tools, libraries, MCP servers, LSP implementations, and AI-driven workflows for modern Delphi and Object Pascal development.
 >
