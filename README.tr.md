@@ -1,6 +1,6 @@
 # Awesome Delphi AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Doğrulanmış Proje](https://img.shields.io/badge/Projeler-60%2B%20Do%C4%9Frulanm%C4%B1%C5%9F-blue?style=flat-square)](https://github.com/cihadkocasahan/Awesome-Delphi-AI) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/cihadkocasahan/Awesome-Delphi-AI/pulls) [![Son Güncelleme](https://img.shields.io/github/last-commit/cihadkocasahan/Awesome-Delphi-AI?style=flat-square)](https://github.com/cihadkocasahan/Awesome-Delphi-AI/commits)
 
-[🇬🇧 English](README.md) · [🇹🇷 Türkçe](README.tr.md)
+[![English](https://img.shields.io/badge/Language-English-blue?style=flat-square&logo=github)](README.md) &nbsp; [![Türkçe](https://img.shields.io/badge/Dil-T%C3%BCrk%C3%A7e-red?style=flat-square&logo=github)](README.tr.md)
 
 > Modern Delphi ve Object Pascal geliştiricileri için yapay zekâ araçları, kütüphaneler, Model Context Protocol (MCP) sunucuları, LSP motorları ve otonom kodlama iş akışlarının açık kaynak ekosistem dizini ve kataloğu.
 >
