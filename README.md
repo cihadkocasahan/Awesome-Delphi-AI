@@ -12,17 +12,17 @@ This directory focuses on modernizing the **development experience (DevEx) and e
 
 ## Contents
 
-- [Agent Tooling & MCP (Model Context Protocol)](#agent-tooling--mcp-model-context-protocol)
-- [Agent Skills, Prompts & DevEx](#agent-skills-prompts--devex)
-- [Code Intelligence & LSP (Language Server Protocol)](#code-intelligence--lsp-language-server-protocol)
-- [AST, DFM & Codebase Analysis](#ast-dfm--codebase-analysis)
-- [Legacy Workflows & Encoding Bridges](#legacy-workflows--encoding-bridges)
-- [IDE Plugins & In-Editor Assistants](#ide-plugins--in-editor-assistants)
-- [AI Frameworks & Multi-Agent Orchestration](#ai-frameworks--multi-agent-orchestration)
-- [Local / On-Device Inference (Delphi-Native)](#local--on-device-inference-delphi-native)
-- [Cloud LLM API Clients](#cloud-llm-api-clients)
-- [Testing & GUI Automation](#testing--gui-automation)
-- [Curated Lists & Community Directories](#curated-lists--community-directories)
+- [Agent Tooling & MCP (Model Context Protocol)](#agent-tooling--mcp-model-context-protocol) (22)
+- [Agent Skills, Prompts & DevEx](#agent-skills-prompts--devex) (7)
+- [Code Intelligence & LSP (Language Server Protocol)](#code-intelligence--lsp-language-server-protocol) (5)
+- [AST, DFM & Codebase Analysis](#ast-dfm--codebase-analysis) (4)
+- [Legacy Workflows & Encoding Bridges](#legacy-workflows--encoding-bridges) (4)
+- [IDE Plugins & In-Editor Assistants](#ide-plugins--in-editor-assistants) (5)
+- [AI Frameworks & Multi-Agent Orchestration](#ai-frameworks--multi-agent-orchestration) (3)
+- [Local / On-Device Inference (Delphi-Native)](#local--on-device-inference-delphi-native) (6)
+- [Cloud LLM API Clients](#cloud-llm-api-clients) (11)
+- [Testing & GUI Automation](#testing--gui-automation) (1)
+- [Curated Lists & Community Directories](#curated-lists--community-directories) (2)
 - [Community & Resources](#community--resources)
 - [Contributing](#contributing)
 - [Security & Disclaimer](#security--disclaimer)
@@ -250,10 +250,11 @@ This directory focuses on modernizing the **development experience (DevEx) and e
 
 ## Contributing
 
-Contributions and recommendations are warmly welcome!
+Found a tool that's missing? Suggest it via [GitHub Issues](../../issues) — we review and add qualifying projects regularly.
+
 1. **Focus:** Must enhance Delphi or Object Pascal development with AI, MCP, LSP, AST analysis, or modern developer workflows.
 2. **Quality & Distribution:** Open-source and actively maintained repositories are prioritized. Commercial or closed-source distribution tools must be uniquely valuable and clearly tagged `[Commercial]`.
-3. **Format:** Submit a Pull Request following the established categorization, 2-column compact table format, and badge/tag conventions.
+3. **Review:** Projects are evaluated against the catalog criteria; qualifying entries are added in the next update cycle. There may be tools we haven't discovered yet — your suggestions help fill the gaps.
 
 ---
 
