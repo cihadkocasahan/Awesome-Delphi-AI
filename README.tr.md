@@ -226,7 +226,7 @@ Bu kürasyon, Delphi geliştiricilerinin **geliştirici deneyimini (DevEx) ve mo
 Katkılarınız ve proje önerileriniz memnuniyetle karşılanır!
 1. **Odak:** Eklenen proje; yapay zekâ, MCP, LSP, AST analizi veya modern geliştirici araçlarıyla Delphi/Object Pascal geliştirmesini güçlendirmelidir.
 2. **Kalite ve Dağıtım:** Açık kaynaklı ve aktif olarak güncellenen depolar önceliklidir. Ticari veya kapalı kaynak dağıtım araçları özel bir değer sunmalı ve açıkça `[Ticari]` olarak etiketlenmelidir.
-3. **Format:** Belirlenen kategori kurallarına, 4 sütunlu tablo yapısına ve etiketleme standartlarına uyarak bir Pull Request gönderin.
+3. **Format:** Belirlenen kategori kurallarına, 2 sütunlu kompakt tablo yapısına ve rozet/etiket standartlarına uyarak bir Pull Request gönderin.
 
 ---
 
