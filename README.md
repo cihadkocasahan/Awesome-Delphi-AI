@@ -226,7 +226,7 @@ This list focuses on modernizing the **development experience (DevEx) and engine
 Contributions and recommendations are warmly welcome!
 1. **Focus:** Must enhance Delphi or Object Pascal development with AI, MCP, LSP, AST analysis, or modern developer workflows.
 2. **Quality & Distribution:** Open-source and actively maintained repositories are prioritized. Commercial or closed-source distribution tools must be uniquely valuable and clearly tagged `[Commercial]`.
-3. **Format:** Submit a Pull Request following the established categorization and tag conventions.
+3. **Format:** Submit a Pull Request following the established categorization, 2-column compact table format, and badge/tag conventions.
 
 ---
 
