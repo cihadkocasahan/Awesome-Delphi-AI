@@ -240,8 +240,21 @@ This list focuses on modernizing the **development experience (DevEx) and engine
 
 ## Community & Resources
 
-* **[Delphi-PRAXiS — AI & LLM Discussions](https://en.delphipraxis.net/forum/43-ai-assisted-coding/)** — Active community forum on integrating AI and LLMs into Delphi development workflows.
-* **[Claude Code Training for Delphi Developers](https://training.gdksoftware.com/)** — Specialized training by GDK Software covering CLAUDE.md architecture, MCP setups, and Delphi agent workflows. `[Commercial]`
+### Global Communities
+* **[Delphi-PRAXiS (English)](https://en.delphipraxis.net/)** & **[German Edition](https://www.delphipraxis.net/)**  
+  The largest independent global Delphi forum, featuring dedicated discussions on [AI-Assisted Coding](https://en.delphipraxis.net/forum/43-ai-assisted-coding/), LLM integration, and modern Pascal practices.
+* **[Embarcadero Community & Developer Blogs](https://blogs.embarcadero.com/)**  
+  Official developer blogs, product updates, SmartCore AI news, and technical deep-dives from Embarcadero architects.
+* **[Reddit r/delphi](https://www.reddit.com/r/delphi/)**  
+  Active community subreddit for Delphi and Object Pascal news, tooling, and open-source project showcases.
+* **[Claude Code Training for Delphi Developers](https://training.gdksoftware.com/)**  
+  Specialized hands-on training by GDK Software covering CLAUDE.md architecture, MCP setups, and Delphi agent workflows. `[Commercial]`
+
+### Turkish Communities (Türkiye)
+* **[DelphiCan](https://www.delphican.com/)**  
+  Türkiye'nin en aktif ve kapsamlı Delphi & Object Pascal geliştirici topluluğu; VCL, FMX, modern mimariler, API ve yapay zekâ tartışmaları.
+* **[DelphiTurk](https://www.delphiturk.com/)**  
+  Türkiye Delphi ekosisteminin en köklü bilgi bankası ve geliştirici paylaşım portalı.
 
 ---
 
