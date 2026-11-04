@@ -221,10 +221,6 @@ Bu katalog, Delphi geliştiricilerinin **geliştirici deneyimini (DevEx) ve mode
 * [Telegram @delphibr](https://t.me/delphibr)  
   Binlerce Brezilyalı Delphi mühendisini birbirine bağlayan, temiz kod, mimari ve modern araçların tartışıldığı doğrulanmış geliştirici kanalı.
 
-### Doğu Avrupa (Teknik Bilgi Bankaları)
-* [Habr Delphi Hub](https://habr.com/en/hub/delphi/)  
-  Avrupa'nın önde gelen mühendislik platformu; derinlemesine teknik makaleler, sistem mimarisi ve Delphi yapay zekâ entegrasyonları.
-
 ### Türkiye Toplulukları
 * [DelphiCan](https://www.delphican.com/)  
   Türkiye nin en aktif ve kapsamlı Delphi & Object Pascal geliştirici topluluğu; VCL, FMX, modern mimariler, API ve yapay zekâ tartışmaları.
