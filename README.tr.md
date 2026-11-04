@@ -1,8 +1,10 @@
-# Awesome Delphi AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Delphi AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Otonom Kürasyon](https://img.shields.io/badge/K%C3%BCrasyon-Hermes_AI_Agent-8A2BE2?style=flat-square)](https://github.com/cihadkocasahan/Awesome-Delphi-AI)
 
 [🇬🇧 English](README.md) · [🇹🇷 Türkçe](README.tr.md)
 
 > Modern Delphi ve Object Pascal geliştiricileri için yapay zekâ araçları, kütüphaneler, Model Context Protocol (MCP) sunucuları, LSP motorları ve otonom kodlama iş akışlarının özenle seçilmiş açık kaynak kataloğu.
+>
+> 🤖 **Otonom Keşif ve Güncelleme:** Bu liste, ekosistemi düzenli olarak tarayan, projeleri değerlendiren ve güncelleyen **Hermes Yapay Zekâ Ajanı** tarafından otomatik olarak yönetilmektedir.
 
 Bu kürasyon, Delphi yazılımcılarının **geliştirici deneyimini (DevEx) ve modern yazılım mühendisliği pratiklerini** güçlendirmeye odaklanır: Otonom kodlama ajanları (Claude Code, Cursor, Copilot), MCP protokolü üzerinden canlı derleyici/hata ayıklama denetimi, LSP ile semantik kod zekâsı, LLM bağlamı için AST/DFM ayrıştırma ve yerel (on-device) sinir ağı çıkarımı.
 

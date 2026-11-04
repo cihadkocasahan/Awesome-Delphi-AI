@@ -1,8 +1,10 @@
-# Awesome Delphi AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Delphi AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Autonomous Curation](https://img.shields.io/badge/Curated_by-Hermes_AI_Agent-8A2BE2?style=flat-square)](https://github.com/cihadkocasahan/Awesome-Delphi-AI)
 
 [🇬🇧 English](README.md) · [🇹🇷 Türkçe](README.tr.md)
 
 > A curated list of awesome tools, libraries, MCP servers, LSP implementations, and AI-driven workflows for modern Delphi and Object Pascal development.
+>
+> 🤖 **Autonomous Discovery:** Continuously scanned, evaluated, and updated by **Hermes AI Agent** via automated scheduled pipeline.
 
 This list focuses on modernizing the **development experience (DevEx) and engineering workflow** of Delphi developers: empowering engineers with autonomous coding agents (Claude Code, Cursor, Copilot), real-time runtime control over MCP, deep code intelligence via LSP, AST/DFM parsing for accurate LLM context, and native on-device AI inference.
 
