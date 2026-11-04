@@ -250,11 +250,11 @@ Bu katalog, Delphi geliştiricilerinin **geliştirici deneyimini (DevEx) ve mode
 
 ## Katkıda Bulunma (Contributing)
 
-Gözden kaçırdığımız bir araç mı var? [GitHub Issues](../../issues) üzerinden bildirin; kriterlere uyan projeleri düzenli olarak kataloğa ekliyoruz.
+Gözden kaçırdığımız veya henüz fark etmediğimiz bir araç mı var? Lütfen bir [GitHub Issue](../../issues) açarak bizi haberdar edin.
 
-1. **Odak:** Eklenen proje; yapay zekâ, MCP, LSP, AST analizi veya modern geliştirici araçlarıyla Delphi/Object Pascal geliştirmesini güçlendirmelidir.
-2. **Kalite ve Dağıtım:** Açık kaynaklı ve aktif olarak güncellenen depolar önceliklidir. Ticari veya kapalı kaynak dağıtım araçları özel bir değer sunmalı ve açıkça `[Ticari]` olarak etiketlenmelidir.
-3. **Değerlendirme:** Önerilen projeler katalog standartlarına göre incelenir; kriterleri karşılayanlar bir sonraki güncelleme döngüsünde eklenir. Henüz keşfedemediğimiz araçlar olabilir; bildirimleriniz eksikleri tamamlamamıza yardımcı olur.
+1. **Odak:** Eklenen proje; yapay zekâ, MCP, LSP, AST analizi veya modern geliştirici araçlarıyla Delphi/Object Pascal ekosistemini güçlendirmelidir.
+2. **Kalite ve Dağıtım:** Açık kaynaklı ve aktif bakımı yapılan depolar önceliklidir. Ticari araçlar özel bir değer katmalı ve açıkça `[Ticari]` olarak belirtilmelidir.
+3. **Değerlendirme:** Önerilen araçları düzenli aralıklarla inceliyor ve kriterlere uyanları sonraki güncelleme döngüsünde kataloğa ekliyoruz. Ekosistemi birlikte büyütmek için katkılarınızdan haberdar olmak isteriz!
 
 ---
 
