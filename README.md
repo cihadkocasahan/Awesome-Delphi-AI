@@ -1,6 +1,6 @@
 # Awesome Delphi AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Verified Tools](https://img.shields.io/badge/Projects-70%2B%20Verified-blue?style=flat-square)](https://github.com/cihadkocasahan/Awesome-Delphi-AI) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/cihadkocasahan/Awesome-Delphi-AI/pulls) [![Last Commit](https://img.shields.io/github/last-commit/cihadkocasahan/Awesome-Delphi-AI?style=flat-square)](https://github.com/cihadkocasahan/Awesome-Delphi-AI/commits)
 
-<a href="README.md"><img src="https://flagcdn.com/20x15/gb.png" width="20" height="15" alt="English"> **English**</a> &nbsp;·&nbsp; <a href="README.tr.md"><img src="https://flagcdn.com/20x15/tr.png" width="20" height="15" alt="Türkçe"> **Türkçe**</a>
+<a href="README.md"><img src="https://flagcdn.com/20x15/gb.png" width="20" height="15" alt="English"> **English**</a> &nbsp;·&nbsp; <a href="README.tr.md"><img src="https://flagcdn.com/20x15/tr.png" width="20" height="15" alt="Türkçe"> **Türkçe** <img src="https://flagcdn.com/20x15/tr.png" width="20" height="15" alt="Türkçe"></a>
 
 > A comprehensive open-source directory and catalog of tools, libraries, MCP servers, LSP implementations, and AI-driven workflows for modern Delphi and Object Pascal development.
 >

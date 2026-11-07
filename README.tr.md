@@ -1,6 +1,6 @@
 # Awesome Delphi AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Doğrulanmış Proje](https://img.shields.io/badge/Projeler-70%2B%20Do%C4%9Frulanm%C4%B1%C5%9F-blue?style=flat-square)](https://github.com/cihadkocasahan/Awesome-Delphi-AI) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/cihadkocasahan/Awesome-Delphi-AI/pulls) [![Son Güncelleme](https://img.shields.io/github/last-commit/cihadkocasahan/Awesome-Delphi-AI?style=flat-square)](https://github.com/cihadkocasahan/Awesome-Delphi-AI/commits)
 
-<a href="README.md"><img src="https://flagcdn.com/20x15/gb.png" width="20" height="15" alt="English"> **English**</a> &nbsp;·&nbsp; <a href="README.tr.md"><img src="https://flagcdn.com/20x15/tr.png" width="20" height="15" alt="Türkçe"> **Türkçe**</a>
+<a href="README.md"><img src="https://flagcdn.com/20x15/gb.png" width="20" height="15" alt="English"> **English**</a> &nbsp;·&nbsp; <a href="README.tr.md"><img src="https://flagcdn.com/20x15/tr.png" width="20" height="15" alt="Türkçe"> **Türkçe** <img src="https://flagcdn.com/20x15/tr.png" width="20" height="15" alt="Türkçe"></a>
 
 > Modern Delphi ve Object Pascal geliştiricileri için yapay zekâ araçları, kütüphaneler, Model Context Protocol (MCP) sunucuları, LSP motorları ve otonom kodlama iş akışlarının açık kaynak ekosistem dizini ve kataloğu.
 >
