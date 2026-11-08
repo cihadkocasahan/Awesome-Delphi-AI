@@ -23,7 +23,7 @@ Bu katalog, Delphi geliştiricilerinin **geliştirici deneyimini (DevEx) ve mode
 - [Bulut LLM API İstemcileri](#bulut-llm-api-i̇stemcileri) (11)
 - [Test ve GUI Otomasyonu](#test-ve-gui-otomasyonu) (1)
 - [Derlenmiş Listeler ve Topluluk Dizinleri](#derlenmiş-listeler-ve-topluluk-dizinleri) (2)
-- [Topluluk ve Kaynaklar](#topluluk-ve-kaynaklar)
+- [Topluluk ve Kaynaklar (Ekstra)](#topluluk-ve-kaynaklar-ekstra)
 - [Katkıda Bulunma (Contributing)](#katkıda-bulunma-contributing)
 - [Güvenlik Uyarısı ve Sorumluluk Reddi (Disclaimer)](#güvenlik-uyarısı-ve-sorumluluk-reddi-disclaimer)
 
@@ -220,7 +220,7 @@ Bu katalog, Delphi geliştiricilerinin **geliştirici deneyimini (DevEx) ve mode
 
 ---
 
-## Topluluk ve Kaynaklar
+## Topluluk ve Kaynaklar (Ekstra)
 
 > 📌 *Genel Delphi ekosistem kaynakları — AI odaklı değildir. Geliştiricilerin daha geniş Object Pascal topluluğunda yol bulması için ekstra olarak dahil edilmiştir.*
 

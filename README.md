@@ -23,7 +23,7 @@ This directory focuses on modernizing the **development experience (DevEx) and e
 - [Cloud LLM API Clients](#cloud-llm-api-clients) (11)
 - [Testing & GUI Automation](#testing--gui-automation) (1)
 - [Curated Lists & Community Directories](#curated-lists--community-directories) (2)
-- [Community & Resources](#community--resources)
+- [Community & Resources (Extras)](#community--resources-extras)
 - [Contributing](#contributing)
 - [Security & Disclaimer](#security--disclaimer)
 
@@ -220,7 +220,7 @@ This directory focuses on modernizing the **development experience (DevEx) and e
 
 ---
 
-## Community & Resources
+## Community & Resources (Extras)
 
 > 📌 *General Delphi ecosystem resources — not AI-specific. Included as a bonus for developers navigating the broader Object Pascal community.*
 
