@@ -308,7 +308,7 @@ Gözden kaçırdığımız veya henüz fark etmediğimiz bir araç mı var? Lüt
 
 1. **Odak:** Eklenen proje; yapay zekâ, MCP, LSP, AST analizi veya modern geliştirici araçlarıyla Delphi/Object Pascal ekosistemini güçlendirmelidir.
 2. **Kalite ve Dağıtım:** Açık kaynaklı ve aktif bakımı yapılan depolar önceliklidir. Ticari araçlar özel bir değer katmalı ve açıkça `[Ticari]` olarak belirtilmelidir.
-3. **Değerlendirme:** Önerilen araçları düzenli aralıklarla inceliyor ve kriterlere uyanları sonraki güncelleme döngüsünde kataloğa ekliyoruz. Ekosistemi birlikte büyütmek için katkılarınızdan haberdar olmak isteriz!
+3. **Değerlendirme:** Önerilen araçlar incelenir ve kriterlere uyanlar sonraki güncelleme döngüsünde kataloğa eklenir. Ekosistemi birlikte büyütmek için katkılarınızdan haberdar olmak isteriz!
 
 ---
 

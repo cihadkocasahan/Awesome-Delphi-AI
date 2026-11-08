@@ -308,7 +308,7 @@ Found a tool we missed or haven't discovered yet? Please let us know by opening 
 
 1. **Focus:** Must enhance Delphi or Object Pascal development with AI, MCP, LSP, AST analysis, or modern developer workflows.
 2. **Quality & Distribution:** Open-source and actively maintained repositories are prioritized. Commercial tools must provide unique value and be clearly tagged `[Commercial]`.
-3. **Review:** We regularly evaluate suggested tools and add qualifying entries in the next update cycle. Help us keep the catalog comprehensive!
+3. **Review:** Suggestions are reviewed and qualifying entries are added in the next update cycle. Help us keep the catalog comprehensive!
 
 ---
 
