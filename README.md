@@ -222,29 +222,79 @@ This directory focuses on modernizing the **development experience (DevEx) and e
 
 ## Community & Resources
 
-### Global & Multilingual
-* [Delphi-PRAXiS (English)](https://en.delphipraxis.net/) & [German Edition](https://www.delphipraxis.net/)  
-  The largest independent global Delphi forum, featuring dedicated discussions on [AI-Assisted Coding](https://en.delphipraxis.net/forum/43-ai-assisted-coding/), LLM integration, and modern Pascal practices.
-* [Embarcadero Community & Developer Blogs](https://blogs.embarcadero.com/)  
-  Official developer blogs, product updates, SmartCore AI news, and technical deep-dives from Embarcadero architects.
-* [Reddit r/delphi](https://www.reddit.com/r/delphi/)  
-  Active community subreddit for Delphi and Object Pascal news, tooling, and open-source project showcases.
-* [Lazarus & Free Pascal Official Forum](https://forum.lazarus.freepascal.org/)  
-  The official discussion hub and technical knowledge base for open-source Free Pascal (FPC) and Lazarus development.
-* [Claude Code Training for Delphi Developers](https://training.gdksoftware.com/)  
-  Specialized hands-on training by GDK Software covering `CLAUDE.md` architecture, MCP setups, and Delphi agent workflows. `[Commercial]`
-
-### Latin America & Brazil (Portuguese)
-* [DevMedia / Clube Delphi](https://www.devmedia.com.br/delphi/)  
-  The largest Portuguese-language software development portal and knowledge base, featuring extensive enterprise Delphi architectures and API tutorials.
-* [Telegram @delphibr](https://t.me/delphibr)  
-  Active verified community channel connecting thousands of Brazilian Delphi engineers, discussing clean code, REST, and AI tooling.
-
 ### Türkiye (Turkish)
 * [DelphiCan](https://www.delphican.com/)  
   Türkiye'nin en aktif ve kapsamlı Delphi & Object Pascal geliştirici topluluğu; VCL, FMX, modern mimariler, API ve yapay zekâ tartışmaları.
 * [Delphi Türkiye Forum](https://www.delphiturkiye.com/forum/)  
   1998'den beri Türkiye Delphi ekosisteminin en köklü bilgi bankası ve teknik tartışma forumu (`delphiturkiye.com`).
+
+### Global & Multilingual Communities
+* [Delphi-PRAXiS (English)](https://en.delphipraxis.net/) & [German Edition](https://www.delphipraxis.net/)  
+  The largest independent global Delphi forum, featuring dedicated discussions on [AI-Assisted Coding](https://en.delphipraxis.net/forum/43-ai-assisted-coding/), LLM integration, and modern Pascal practices.
+* [Reddit r/delphi](https://www.reddit.com/r/delphi/)  
+  Active community subreddit for Delphi and Object Pascal news, tooling, and open-source project showcases.
+* [Lazarus & Free Pascal Official Forum](https://forum.lazarus.freepascal.org/)  
+  The official discussion hub and technical knowledge base for open-source Free Pascal (FPC) and Lazarus development.
+* [Stack Overflow — Delphi Tag](https://stackoverflow.com/questions/tagged/delphi)  
+  The official Q&A platform for Delphi and Object Pascal technical questions, with over 7,800 tagged questions and a deep archive of expert solutions.
+* [Delphi Community (Discord)](https://delphi-community.com/)  
+  A vibrant Discord server with 1,300+ members supporting 20 languages, backed by an active GitHub organization and community team.
+* [Delphi Programmers (Discord)](https://discord.gg/nAtEqhMHJK)  
+  Independent Discord server actively monitored by Embarcadero staff, featuring dedicated channels for VCL, FMX, RTL, IDE tooling, and web development.
+* [Claude Code Training for Delphi Developers](https://training.gdksoftware.com/)  
+  Specialized hands-on training by GDK Software covering `CLAUDE.md` architecture, MCP setups, and Delphi agent workflows. `[Commercial]`
+
+### Telegram Groups
+* [Delphi Developers (@delphidevelopers)](https://t.me/delphidevelopers)  
+  Independent and very active Telegram group monitored by Embarcadero staff, with cross-links to Discord and Slack communities.
+* [Delphi BR (@delphibr)](https://t.me/delphibr)  
+  Active verified community channel connecting thousands of Brazilian Delphi engineers, discussing clean code, REST, and AI tooling.
+* [Delphi & Lazarus (@Delphi_Lazarus)](https://t.me/Delphi_Lazarus)  
+  Russian-language Telegram group for Delphi and Lazarus developers, with dedicated sub-channels for databases, graphics, and Android development.
+
+### Blogs & Media
+* [Embarcadero Community & Developer Blogs](https://blogs.embarcadero.com/)  
+  Official developer blogs, product updates, SmartCore AI news, and technical deep-dives from Embarcadero architects.
+* [BeginEnd.net](https://www.beginend.net/)  
+  The premier Object Pascal and Delphi news aggregator, syndicating blog posts from across the global Delphi and Free Pascal ecosystem.
+* [The Podcast at Delphi.org](https://delphi.org/)  
+  Jim McKeeth's long-running podcast and blog covering Object Pascal tools, news, community interviews, and emerging technologies.
+* [Blaise Pascal Magazine](https://www.blaisepascalmagazine.eu/)  
+  The only dedicated print and digital magazine for Object Pascal, covering Delphi, Free Pascal, Lazarus, and related technologies, published by the Dutch OPPascal Foundation.
+* [LearnDelphi.org](https://learndelphi.org/)  
+  Community-driven free learning platform created by Embarcadero, offering books, video courses, labs, and certification resources for all skill levels.
+
+### YouTube Channels
+* [Embarcadero Technologies](https://www.youtube.com/@EmbarcaderoTech)  
+  Official Embarcadero YouTube channel with thousands of hours of free training, CodeRage conference recordings, and product deep-dives from beginner to advanced.
+* [Alister Christie — LearnDelphi.tv](https://www.youtube.com/@codegearguru)  
+  Delphi MVP with hundreds of video tutorials covering VCL, FireMonkey, FireDAC, cross-platform, and IDE productivity, from beginner to expert level.
+* [Shaun Roselt](https://www.youtube.com/@ShaunRoselt)  
+  Comprehensive Delphi VCL and FireMonkey tutorial series designed for absolute beginners, with hands-on project-based learning.
+* [blangkonfa](https://www.youtube.com/@blangkonfa5124)  
+  Delphi and FireMonkey (FMX) video tutorials and practical development demonstrations.
+* [The Silver Pascal Coder](https://www.youtube.com/@TheSilverPascalCoder)  
+  Active channel covering Delphi, Free Pascal, and Lazarus on Linux, with content on design patterns, logging, and modern Object Pascal practices.
+
+### Conferences & Events
+* [CodeRage](https://blogs.embarcadero.com/coderage-2025/)  
+  Embarcadero's flagship annual online developer conference — free and fully virtual, featuring 50+ expert sessions on Delphi, C++Builder, AI tools, and modern development over two weeks.
+* [ITDevCon](https://itdevcon.it/)  
+  Europe's most content-rich Delphi conference, organized by bit Time Professionals (Daniele Teti), with its 14th edition held in Milan covering DMVCFramework, HTMX, and AI integration.
+* [Zlot Programistów Delphi](https://www.bsc.com.pl/zlot-programistow-delphi-2025/)  
+  Poland's premier Delphi developer conference organized by BSC Polska, featuring technical talks from Polish experts and international guests including Embarcadero's Marco Cantù.
+
+### Regional Communities
+* [DevMedia / Clube Delphi](https://www.devmedia.com.br/delphi/) (Brazil, Portuguese)  
+  The largest Portuguese-language software development portal and knowledge base, featuring extensive enterprise Delphi architectures and API tutorials.
+* [Club Delphi](https://www.clubdelphi.com/) (Spain, Spanish)  
+  Since 1996, the largest Spanish-language Delphi community, with active forums covering AI integration, MCP, KAI, and modern framework discussions.
+* [Delphi-Treff](https://www.delphi-treff.de/) (Germany, German)  
+  A friendly German-language Delphi developer community with over 1.4 million archived articles, tutorials, and co-organizer of the Foren-Tage community events.
+* [FireMonkey RU](https://fire-monkey.ru/) (Russia, Russian)  
+  The largest Russian-language FireMonkey and Delphi forum, officially listed by Embarcadero, covering rendering, styling, databases, and REST integration.
+* [Australian Delphi Users Group (ADUG)](https://www.adug.org.au/) (Australia, English)  
+  Australia's official Delphi user group with an active forum, annual symposium, and branch meetings, featuring dedicated AI discussion categories.
 
 ---
 

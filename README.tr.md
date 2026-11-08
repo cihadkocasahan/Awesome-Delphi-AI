@@ -222,29 +222,79 @@ Bu katalog, Delphi geliştiricilerinin **geliştirici deneyimini (DevEx) ve mode
 
 ## Topluluk ve Kaynaklar
 
+### Türkiye (Türkçe)
+* [DelphiCan](https://www.delphican.com/)  
+  Türkiye'nin en aktif ve kapsamlı Delphi & Object Pascal geliştirici topluluğu; VCL, FMX, modern mimariler, API ve yapay zekâ tartışmaları.
+* [Delphi Türkiye Forum](https://www.delphiturkiye.com/forum/)  
+  1998'den beri Türkiye Delphi ekosisteminin en köklü bilgi bankası ve teknik tartışma forumu (`delphiturkiye.com`).
+
 ### Küresel ve Çok Dilli Topluluklar
 * [Delphi-PRAXiS (İngilizce)](https://en.delphipraxis.net/) & [Almanca Sürüm](https://www.delphipraxis.net/)  
   Dünyanın en büyük bağımsız Delphi forumu; [AI-Assisted Coding](https://en.delphipraxis.net/forum/43-ai-assisted-coding/) özel bölümü, LLM entegrasyonu ve modern Pascal tartışmaları.
-* [Embarcadero Topluluk ve Geliştirici Blogları](https://blogs.embarcadero.com/)  
-  Resmi geliştirici blogları, sürüm güncellemeleri, SmartCore AI haberleri ve Embarcadero mimarlarından teknik makaleler.
 * [Reddit r/delphi](https://www.reddit.com/r/delphi/)  
   Delphi ve Object Pascal haberleri, araçları ve açık kaynak proje tanıtımları için aktif topluluk alt dizini.
 * [Lazarus & Free Pascal Resmi Forumu](https://forum.lazarus.freepascal.org/)  
   Açık kaynak Free Pascal (FPC) ve Lazarus geliştiricileri için resmi tartışma ve teknik bilgi merkezi.
+* [Stack Overflow — Delphi Etiketi](https://stackoverflow.com/questions/tagged/delphi)  
+  Delphi ve Object Pascal teknik soruları için resmi Soru-Cevap platformu; 7.800'den fazla etiketli soru ve uzman çözüm arşivi.
+* [Delphi Community (Discord)](https://delphi-community.com/)  
+  20 dil destekli, 1.300'den fazla üyeye sahip aktif Discord sunucusu; GitHub organizasyonu ve topluluk ekibi tarafından desteklenmektedir.
+* [Delphi Programmers (Discord)](https://discord.gg/nAtEqhMHJK)  
+  Embarcadero personeli tarafından aktif olarak takip edilen bağımsız Discord sunucusu; VCL, FMX, RTL, IDE araçları ve web geliştirme için özel kanallar.
 * [Claude Code Training for Delphi Developers](https://training.gdksoftware.com/)  
   GDK Software tarafından sunulan; `CLAUDE.md` mimarisi, MCP kurulumları ve Delphi ajan iş akışlarını kapsayan özel eğitim. `[Ticari]`
 
-### Latin Amerika ve Brezilya (Portekizce)
-* [DevMedia / Clube Delphi](https://www.devmedia.com.br/delphi/)  
-  Portekizce konuşan en büyük yazılım geliştirme portalı; kurumsal Delphi mimarileri, REST servisleri ve zengin teknik rehberler.
-* [Telegram @delphibr](https://t.me/delphibr)  
+### Telegram Grupları
+* [Delphi Developers (@delphidevelopers)](https://t.me/delphidevelopers)  
+  Embarcadero personeli tarafından takip edilen, çok aktif ve bağımsız Telegram grubu; Discord ve Slack topluluklarıyla çapraz bağlantılar.
+* [Delphi BR (@delphibr)](https://t.me/delphibr)  
   Binlerce Brezilyalı Delphi mühendisini birbirine bağlayan, temiz kod, mimari ve modern araçların tartışıldığı doğrulanmış geliştirici kanalı.
+* [Delphi & Lazarus (@Delphi_Lazarus)](https://t.me/Delphi_Lazarus)  
+  Rusça Delphi ve Lazarus geliştiricileri için Telegram grubu; veritabanları, grafikler ve Android geliştirme için özel alt kanallarla.
 
-### Türkiye Toplulukları
-* [DelphiCan](https://www.delphican.com/)  
-  Türkiye nin en aktif ve kapsamlı Delphi & Object Pascal geliştirici topluluğu; VCL, FMX, modern mimariler, API ve yapay zekâ tartışmaları.
-* [Delphi Türkiye Forum](https://www.delphiturkiye.com/forum/)  
-  1998 den beri Türkiye Delphi ekosisteminin en köklü bilgi bankası ve teknik tartışma forumu (`delphiturkiye.com`).
+### Bloglar ve Medya
+* [Embarcadero Topluluk ve Geliştirici Blogları](https://blogs.embarcadero.com/)  
+  Resmi geliştirici blogları, sürüm güncellemeleri, SmartCore AI haberleri ve Embarcadero mimarlarından teknik makaleler.
+* [BeginEnd.net](https://www.beginend.net/)  
+  Object Pascal ve Delphi dünyasının en önemli blog/haber agregatörü; global Delphi ve Free Pascal ekosisteminden blog yazılarını toplar.
+* [The Podcast at Delphi.org](https://delphi.org/)  
+  Jim McKeeth'in uzun soluklu podcast'i ve blogu; Object Pascal araçları, haberler, topluluk röportajları ve yeni teknolojiler.
+* [Blaise Pascal Magazine](https://www.blaisepascalmagazine.eu/)  
+  Object Pascal dünyasının tek basılı ve dijital dergisi; Delphi, Free Pascal, Lazarus ve ilgili teknolojileri kapsar, Hollanda OPPascal Vakfı tarafından yayımlanır.
+* [LearnDelphi.org](https://learndelphi.org/)  
+  Embarcadero tarafından oluşturulan, topluluk destekli ücretsiz öğrenme platformu; her seviye için kitaplar, video kursları, laboratuvarlar ve sertifika kaynakları.
+
+### YouTube Kanalları
+* [Embarcadero Technologies](https://www.youtube.com/@EmbarcaderoTech)  
+  Embarcadero'nun resmi YouTube kanalı; binlerce saat ücretsiz eğitim, CodeRage konferans kayıtları ve başlangıçtan ileri seviyeye ürün demo'ları.
+* [Alister Christie — LearnDelphi.tv](https://www.youtube.com/@codegearguru)  
+  Delphi MVP; VCL, FireMonkey, FireDAC, çapraz platform ve IDE verimliliği üzerine yüzlerce video eğitim; başlangıçtan uzman seviyesine.
+* [Shaun Roselt](https://www.youtube.com/@ShaunRoselt)  
+  Yeni başlayanlar için tasarlanmış, projeler üzerinden öğrenmeyi sağlayan kapsamlı Delphi VCL ve FireMonkey eğitim serisi.
+* [blangkonfa](https://www.youtube.com/@blangkonfa5124)  
+  Delphi ve FireMonkey (FMX) video eğitimleri ve pratik geliştirme gösterimleri.
+* [The Silver Pascal Coder](https://www.youtube.com/@TheSilverPascalCoder)  
+  Delphi, Free Pascal ve Lazarus üzerine aktif içerik üreten kanal; tasarım örüntüleri (design patterns), loglama ve modern Object Pascal pratikleri.
+
+### Konferanslar ve Etkinlikler
+* [CodeRage](https://blogs.embarcadero.com/coderage-2025/)  
+  Embarcadero'nun amiral gemisi yıllık online geliştirici konferansı — ücretsiz ve tamamen sanal; iki hafta boyunca Delphi, C++Builder, AI araçları ve modern geliştirme üzerine 50'den fazla uzman oturumu.
+* [ITDevCon](https://itdevcon.it/)  
+  Avrupa'nın en içerik zengini Delphi konferansı; bit Time Professionals (Daniele Teti) tarafından organize edilen 14. edisyon Milan'da gerçekleştirildi; DMVCFramework, HTMX ve AI entegrasyonu konularını kapsadı.
+* [Zlot Programistów Delphi](https://www.bsc.com.pl/zlot-programistow-delphi-2025/)  
+  Polonya'nın önde gelen Delphi geliştirici konferansı; BSC Polska tarafından organize edilmekte, Polonyalı uzmanlar ve Embarcadero'dan Marco Cantù dahil uluslararası konuklarla teknik sunumlar yapılmaktadır.
+
+### Bölgesel Topluluklar
+* [DevMedia / Clube Delphi](https://www.devmedia.com.br/delphi/) (Brezilya, Portekizce)  
+  Portekizce konuşan en büyük yazılım geliştirme portalı; kurumsal Delphi mimarileri, REST servisleri ve zengin teknik rehberler.
+* [Club Delphi](https://www.clubdelphi.com/) (İspanya, İspanyolca)  
+  1996'dan beri İspanyolca konuşan en büyük Delphi topluluğu; AI entegrasyonu, MCP, KAI ve modern framework tartışmalarını kapsayan aktif forumlar.
+* [Delphi-Treff](https://www.delphi-treff.de/) (Almanya, Almanca)  
+  1,4 milyondan fazla arşivlenmiş makaleye sahip dostane Almanca Delphi geliştirici topluluğu; eğitimler ve Foren-Tage topluluk etkinliklerinin ortak organizatörü.
+* [FireMonkey RU](https://fire-monkey.ru/) (Rusya, Rusça)  
+  Rusça konuşan en büyük FireMonkey ve Delphi forumu; Embarcadero tarafından resmi olarak listelenmektedir; rendering, stil, veritabanı ve REST entegrasyonu konularını kapsar.
+* [Australian Delphi Users Group (ADUG)](https://www.adug.org.au/) (Avustralya, İngilizce)  
+  Avustralya'nın resmi Delphi kullanıcı grubu; aktif forum, yıllık sempozyum ve şube toplantıları; özel AI tartışma kategorileri mevcuttur.
 
 ---
 
